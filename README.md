@@ -1,5 +1,5 @@
 # Mental-Heath-Chatbot
-# Mental Health Chatbot
+
 
 ## Overview
 This project is a Mental Health Chatbot application built using Streamlit. The chatbot uses Google's Generative AI model (Gemini Pro) to provide empathetic responses, detect emotions from user input, and allow voice interaction. The primary goal of the chatbot is to simulate a therapy session, offering users a supportive and empathetic conversational partner.
