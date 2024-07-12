@@ -27,18 +27,11 @@ This project is a Mental Health Chatbot application built using Streamlit. The c
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone <repository_url>
-    cd <repository_directory>
-    ```
-
-2. Install the required packages:
+1. Install the required packages:
     ```bash
     pip install streamlit google-generativeai SpeechRecognition python-dotenv transformers pyttsx3
     ```
-
-3. Set up your `.env` file with your Google API key:
+2. Set up your `.env` file with your Google API key:
     ```env
     GOOGLE_API_KEY=your_google_api_key
     ```
